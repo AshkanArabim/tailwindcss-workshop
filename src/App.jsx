@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="min-h-screen flex items-center justify-center bg-red-600 text-white">
       <div className="text-center">
-        <h1 className="text-4xl md:text-6xl font-bold mb-4">We are FOSS Club.</h1>
+        <h1 className="text-4xl md:text-6xl font-bold mb-4 lg:text-8xl">We are FOSS Club.</h1>
         <p className="text-lg md:text-xl mb-6">
           The most awesome CS organization on campus.
         </p>
