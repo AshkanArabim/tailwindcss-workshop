@@ -9,7 +9,7 @@ function App() {
           The most awesome CS organization on campus.
         </p>
         <a
-          href="https://github.com/AshkanArabim/tailwindcss-workshop"
+          href="https://github.com/FOSS-club-UTEP/tailwindcss-workshop"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-gray-950 hover:drop-shadow-lg hover:shadow-black hover:bg-gray-600 text-white py-2 px-4 rounded transition duration-200"
